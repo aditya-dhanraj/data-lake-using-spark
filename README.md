@@ -23,6 +23,7 @@ To run on an Jupyter Notebook powered by an EMR cluster, import the notebook fou
 We will read basically two main data sources:
 
 > s3a://udacity-dend/song_data/*/*/* - JSON files containing meta information about song/artists data
+
 > s3a://udacity-dend/log_data/*/* - JSON files containing log events from the Sparkify app
 
 ## Parquet data schema
